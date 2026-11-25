@@ -82,7 +82,8 @@ return 0;
 
 
 # OUTPUT
-<img width="1033" height="557" alt="Screenshot 2026-11-25 133647" src="https://github.com/user-attachments/assets/b02f547f-0d6f-4b14-b034-fa3ba2dd6a49" />
+<img width="1707" height="921" alt="Windows Terminal Compiling exp2_0297" src="https://github.com/user-attachments/assets/0e1335c7-586a-4aef-87de-6c14d7cca375" />
+
 
 
 # RESULT
